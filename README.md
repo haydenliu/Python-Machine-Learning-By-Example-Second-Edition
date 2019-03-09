@@ -1,6 +1,9 @@
 # Python Machine Learning By Example Second Edition
 **Implement machine learning algorithms and techniques to build intelligent systems**
 
+
+<a href="https://www.amazon.in/Python-Machine-Learning-Example-Second-Edition-Hayden/dp/1789616727?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://images-na.ssl-images-amazon.com/images/I/51A5AUe1wAL._SX404_BO1,204,203,200_.jpg" alt="" height="256px" align="right"></a>
+
 This is the code repository for my book [Python Machine Learning By Example Second Edition](https://www.amazon.com/Python-Machine-Learning-Example-Second-Edition-Hayden/dp/1789616727?utm_source=github&utm_medium=repository&utm_campaign=%22), published by [Packt](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-example-second-edition), in March 2019. It contains all the supporting project files necessary to work through the book from start to finish.
 
 
