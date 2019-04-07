@@ -44,8 +44,8 @@ schema = StructType([
 ])
 
 
-
-df = spark.read.csv("file:///Users/hayden/dev/project/my_python2_book/ch7/train", schema=schema, header=True)
+# Download data in: https://www.kaggle.com/c/avazu-ctr-prediction/data
+df = spark.read.csv("filepath/train", schema=schema, header=True)
 
 
 df.printSchema()
